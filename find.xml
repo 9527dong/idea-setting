@@ -3,11 +3,31 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.properties</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.js</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*controller.java</mask>
+    <mask>*test.java</mask>
+    <mask>pom</mask>
+    <mask>pom.xml</mask>
+    <mask>*.scala</mask>
+    <mask>*.xml</mask>
+    <mask>!*Dao.java,!Impl*.java</mask>
+    <mask>!*Dao.java,!*Impl.java</mask>
+    <mask>!*Dao.java,!*Impl.java,!*Service.java</mask>
+    <mask>!*Dao.java,!*Impl.java,!*Service.java,!*.xml</mask>
+    <mask>!*Dao.java,!*.xml</mask>
+    <mask>*.java,*.xml</mask>
+    <mask>*dao.java,*.xml</mask>
+    <mask>!*Dao.java,!*.xml,!VenueServiceImpl.java</mask>
+    <mask>*Api.java</mask>
+    <mask>!*Dao.java,!*.xml,!ActivityStatServiceImpl.java</mask>
     <mask>*.java</mask>
+    <mask>*Controller.java</mask>
+    <mask>*dao.java</mask>
   </component>
 </application>

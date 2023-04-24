@@ -1,0 +1,71 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="574" />
+    <option name="newTranslationDialogY" value="369" />
+    <histories>
+      <item value="Failed to obtain seat. Unable to connect to license server. Check your network connection and/or VPN settings" />
+      <item value="Cannot resolve constructor 'Scanner()'" />
+      <item value="Variable 'nums' is already defined in the scope" />
+      <item value="even" />
+      <item value="odd" />
+      <item value="synchronized" />
+      <item value="append" />
+      <item value=".String Index Out Of Bounds Exception" />
+      <item value="corresponding" />
+      <item value="restore" />
+      <item value="read Object" />
+      <item value="particular" />
+      <item value="write Object" />
+      <item value="at java.util.FormatterFormatSpecifier.failConversion(Formatter.java:4302)" />
+      <item value="another String" />
+      <item value="value.length" />
+      <item value="value" />
+      <item value="Exception" />
+      <item value="Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException: 5" />
+      <item value="Exception in thread &quot;main&quot; java.lang.StringIndexOutOfBoundsException: String index out of range: -1" />
+      <item value="String index out of" />
+      <item value="Array Index Out Of Bounds Exception" />
+      <item value="Exception in thread &quot;main&quot; java.lang.ArrayIndexOutOfBoundsException: 7" />
+      <item value="Cannot resolve method 'charAt' in 'String'" />
+      <item value="Incompatible types. Found: 'java.lang.String', required: 'java.lang.Integer'" />
+      <item value="String" />
+      <item value="unconditionally" />
+      <item value="take" />
+      <item value="early" />
+      <item value="Retrieves" />
+      <item value="degree" />
+      <item value="uninterruptible" />
+      <item value="exclusively" />
+      <item value="authorize" />
+      <item value="inclusive" />
+      <item value="district" />
+      <item value="Identifier" />
+      <item value="literal" />
+      <item value="indices" />
+      <item value="Follow" />
+      <item value="Insufficient" />
+      <item value="immediately" />
+      <item value="delay" />
+      <item value="interpret" />
+      <item value="pressure" />
+      <item value="The error string to use when reporting this token type in an error message." />
+      <item value="The literal to match, may be null" />
+      <item value="only If Absent" />
+      <item value="spread" />
+      <item value="digest" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="120" />
+        <entry key="CHINESE_TRADITIONAL" value="3" />
+        <entry key="FRENCH" value="3" />
+        <entry key="CATALAN" value="1" />
+        <entry key="SWEDISH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1644284552337" />
+  </component>
+</application>

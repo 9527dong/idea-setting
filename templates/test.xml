@@ -1,0 +1,15 @@
+<templateSet group="test">
+  <template name="asis" value="assertThat($ACTUAL$,is($EXPECTED$));" description="Standard assertion" toReformat="true" toShortenFQNames="true">
+    <variable name="ACTUAL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPECTED" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="test" value="@Test&#10;public void should_$NAME$(){&#10;    $END$&#10;}" description="New Junit test case" toReformat="true" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
