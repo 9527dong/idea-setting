@@ -1,5 +1,14 @@
 <application>
   <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarqube.shdrapps.disney.com" />
+          <token>dfc9df9adf92dfccdfcbdfcedfc8dfcedf9cdf9cdfcbdf92df9cdf92df9bdfcfdf9bdf92df99df9edfc8df99dfc9dfcbdfc9df9edfccdfc9df93df98df9ddfcbdf93df98df98dfcedfcedfc8dfccdfcf</token>
+          <option name="name" value="Disney" />
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
