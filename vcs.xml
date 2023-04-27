@@ -1,47 +1,4 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
-      <list>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@git.piaoniu.com:10022/piaoniu/piaoniu.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://git@git.pn.com:10022/piaoniu/data-analysis.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/brenov/unisex-bathroom.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/lyb-geek/springboot-learning.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@codeup.aliyun.com:621ec8ebb49717e05aee206e/JST_DIS_COMPANY/dis-company-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@codeup.aliyun.com:621ec8ebb49717e05aee206e/JST_DIS_COMMON/dis-common.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@codeup.aliyun.com:621ec8ebb49717e05aee206e/JST_DIS_COMPANY/dis-innerorder-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="git@codeup.aliyun.com:621ec8ebb49717e05aee206e/JST-FRAME/security-service.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/yudiandemingzi/springboot-redis-caffeine-cache.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-      </list>
-    </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects/jushuitan" />
-  </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
       <list>
