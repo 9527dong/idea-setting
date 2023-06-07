@@ -58,6 +58,11 @@
       <place><![CDATA[psiParameter().ofMethod(2, psiMethod().withName("PrintStream").withParameters("java.io.OutputStream", "boolean", "java.lang.String").definedInClass("java.io.PrintStream"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(3, psiMethod().withName("String").withParameters("byte[]", "int", "int", "java.lang.String").definedInClass("java.lang.String"))]]></place>
     </injection>
+    <injection language="JSON" injector-id="java">
+      <display-name>EventDto.EventDto (com.disney.wdpro.service.eds.segment.dto)</display-name>
+      <single-file value="false" />
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("EventDto").withParameters("java.lang.String").definedInClass("com.disney.wdpro.service.eds.segment.dto.EventDto"))]]></place>
+    </injection>
     <injection language="SQL" injector-id="java">
       <display-name>JDBI (org.jdbi.v3.core)</display-name>
       <ignore-pattern>&lt;\w+&gt;</ignore-pattern>
@@ -182,6 +187,7 @@
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.mutiny.Mutiny.StatelessSession"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.Session"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery").definedInClass("org.hibernate.reactive.stage.Stage.StatelessSession"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createQuery", "createSelectionQuery", "createMutationQuery").definedInClass("org.hibernate.query.QueryProducer"))]]></place>
     </injection>
     <injection language="SQL" injector-id="java">
       <display-name>SmallRye Axle SqlClient (io.vertx.axle.sqlclient)</display-name>
@@ -305,6 +311,7 @@
       <display-name>WireMock (com.github.tomakehurst.wiremock.client)</display-name>
       <single-file value="false" />
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("equalToJson").withParameters("java.lang.String").definedInClass("com.github.tomakehurst.wiremock.client.WireMock"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("equalToJson").withParameters("java.lang.String", "boolean", "boolean").definedInClass("com.github.tomakehurst.wiremock.client.WireMock"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("jsonResponse").withParameters("java.lang.String", "int").definedInClass("com.github.tomakehurst.wiremock.client.WireMock"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("okJson").withParameters("java.lang.String").definedInClass("com.github.tomakehurst.wiremock.client.WireMock"))]]></place>
     </injection>
